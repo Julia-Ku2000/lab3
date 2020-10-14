@@ -5,4 +5,5 @@ public  abstract class User implements Purchase  {
     String name;
     String surname;
     String password;
+    String iii;
 }
